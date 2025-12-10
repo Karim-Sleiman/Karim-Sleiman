@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓Fresh graduate in medical imaging and applications.
 
-- 🔭 I’m currently looking for a position to develop my skills of AI in healthcare.
+- 🔭 I’m currently looking for a position to develop AI in healthcare.
 - 🌱 I’m currently learning AWS and Deep Reinforcement Learning.
 - 👯 I’m looking to collaborate on MICCAI challenges and similar opportunities.
 

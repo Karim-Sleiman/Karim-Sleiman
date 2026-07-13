@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓Fresh graduate in medical imaging and applications.
+🎓PhD Student in Computer Science
 
 - 🔭 I’m currently puirsuing a PhD in Computer Science focusing on computer vision solutions in healthcare.
 - 🌱 I’m currently learning AWS, Deep Reinforcement Learning and advanced computer vision techniques.

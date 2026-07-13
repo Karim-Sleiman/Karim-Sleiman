@@ -1,8 +1,8 @@
 # 💫 About Me:
 🎓Fresh graduate in medical imaging and applications.
 
-- 🔭 I’m currently looking for a position to develop AI in healthcare.
-- 🌱 I’m currently learning AWS and Deep Reinforcement Learning.
+- 🔭 I’m currently puirsuing a PhD in Computer Science focusing on computer vision solutions in healthcare.
+- 🌱 I’m currently learning AWS, Deep Reinforcement Learning and advanced computer vision techniques.
 - 👯 I’m looking to collaborate on MICCAI challenges and similar opportunities.
 
 ## 🌐 Socials:
